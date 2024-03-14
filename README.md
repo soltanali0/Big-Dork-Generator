@@ -1,7 +1,8 @@
 # big-Dork-Generator
 
 
-![Uploading Screenshot 2024-03-14 230254.jpg…]()
+![Screenshot 2024-03-14 230254](https://github.com/soltanali0/big-Dork-Generator/assets/87374678/dadb3cac-b095-488e-adda-781f781fa2c3)
+
 
 Dork Generator is a simple tool that allows you to generate Google dorks for a specific domain. This tool enables you to enter a domain and generate various dorks for it, which can be used as search links in Google.
 
